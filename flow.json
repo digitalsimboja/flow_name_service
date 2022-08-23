@@ -5,6 +5,7 @@
 			"serviceAccount": "emulator-account"
 		}
 	},
+	"contracts": {},
 	"networks": {
 		"emulator": "127.0.0.1:3569",
 		"mainnet": "access.mainnet.nodes.onflow.org:9000",
@@ -13,7 +14,8 @@
 	"accounts": {
 		"emulator-account": {
 			"address": "f8d6e0586b0a20c7",
-			"key": "107499b788c167f3d96281c07cca05dff8d1b81e87ae738ceb4116f3e198528b"
+			"key": "2619878f0e2ff438d17835c2a4561cb87b4d24d72d12ec34569acd0dd4af7c21"
 		}
-	}
+	},
+	"deployments": {}
 }
